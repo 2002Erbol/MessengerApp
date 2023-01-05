@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Erbol_Messenger</string>
+    <string name="SendButton">Send</string>
+    <string name="Enter_Msg">Enter your message</string>
+    <string name="hint_message">Edit hint Message</string>
+</resources>
